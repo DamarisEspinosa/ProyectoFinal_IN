@@ -113,7 +113,7 @@ plt.show()
 satisfaction_mapping = {
     "Nunca": 0,
     "A veces": 1,
-    "Frecuentemente": 1,
+    "Frecuentemente": 2,
     "Siempre": 2,
 }
 
